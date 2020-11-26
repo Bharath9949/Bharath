@@ -44,37 +44,7 @@
             "Longding"
          ]
       }
-      {  
-         "state":"Tripura",
-         "districts":[  
-            "Dhalai",
-            "Gomati",
-            "Khowai",
-            "North Tripura",
-            "Sepahijala",
-            "South Tripura",
-            "Unakoti",
-            "West Tripura"
-         ]
-      },
-      {  
-         "state":"Uttarakhand",
-         "districts":[  
-            "Almora",
-            "Bageshwar",
-            "Chamoli",
-            "Champawat",
-            "Dehradun",
-            "Haridwar",
-            "Nainital",
-            "Pauri Garhwal",
-            "Pithoragarh",
-            "Rudraprayag",
-            "Tehri Garhwal",
-            "Udham Singh Nagar",
-            "Uttarkashi"
-         ]
-      }
+      
       
    ]
 }
